@@ -13,3 +13,4 @@ To Extract Special Characters
 
 =splx("Select a cell");
 
+And many more useful formula are there
